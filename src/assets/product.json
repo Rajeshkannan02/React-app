@@ -1,0 +1,84 @@
+[
+    {
+        "id":89,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hurt",
+        "ftype":"Pizza",
+         "image":"https://www.app.tutorjoes.in/img/food/1.jpg",
+        "latest":"No"
+    },
+    {
+        "id":2,
+        "name":"Rajesh",
+        "amt":"300",
+        "shop":"Royal Hurt",
+        "ftype":"Burger",
+         "image":"https://www.app.tutorjoes.in/img/food/2.jpg",
+        "latest":"No"
+    },
+    {
+        "id":3,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hurt",
+        "ftype":"Pizza",
+         "image":"https://www.app.tutorjoes.in/img/food/3.jpg",
+        "latest":"No"
+    },
+    {
+        "id":4,
+        "name":"Farmers Pick",
+        "amt":"100",
+        "shop":"Manish food",
+        "ftype":"Dosa",
+         "image":"https://www.app.tutorjoes.in/img/food/4.jpg",
+        "latest":"No"
+    },
+    {
+        "id":5,
+        "name":"Umas",
+        "amt":"299",
+        "shop":"Food Cout",
+        "ftype":"Vada",
+         "image":"https://www.app.tutorjoes.in/img/food/5.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":6,
+        "name":"Subhash",
+        "amt":"599",
+        "shop":"Pizza Hurt",
+        "ftype":"Pizza",
+         "image":"https://www.app.tutorjoes.in/img/food/6.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":8,
+        "name":"Farmers Pick",
+        "amt":"499",
+        "shop":"KFC",
+        "ftype":"Chicken",
+         "image":"https://www.app.tutorjoes.in/img/food/8.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":9,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hurt",
+        "ftype":"Pizza",
+         "image":"https://www.app.tutorjoes.in/img/food/9.jpg",
+        "latest":"No"
+    },
+    {
+        "id":10,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hurt",
+        "ftype":"Pizza",
+         "image":"https://www.app.tutorjoes.in/img/food/10.jpg",
+        "latest":"No"
+    }
+    
+]
